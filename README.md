@@ -1,4 +1,4 @@
-# Practice machine learning models and basic python language
+# Practice Basic Data Analyst with Python
 - Linear Regression
 - Logistic Regression
 - Pandas
